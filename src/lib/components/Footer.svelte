@@ -34,7 +34,6 @@
     --radius:1em
 }
   footer {
-    background-color: red;
     display: flex;
     flex-direction: column;
     justify-content: center;
